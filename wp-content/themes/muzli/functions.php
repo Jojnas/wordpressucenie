@@ -444,7 +444,7 @@ function muzli_edit_admin_menus(){
 }
 
 add_filter('tiny_mce_before_init', 'muzli_unhide_kitchensink');
-function muzli_unhide_kitschensink ($args) {
+function muzli_unhide_kitchensink ($args) {
     $args['wordpress_adv_hidden'] = false;
     return $args;
 }

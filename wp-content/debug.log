@@ -1,0 +1,26 @@
+[03-Oct-2016 18:59:40 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[03-Oct-2016 18:59:40 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[03-Oct-2016 18:59:45 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[03-Oct-2016 18:59:45 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[03-Oct-2016 18:59:50 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'muzli_unhide_kitchensink' not found or invalid function name in C:\MAMP\htdocs\wordpressucenie\wp-includes\plugin.php on line 235
+[03-Oct-2016 18:59:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\MAMP\htdocs\wordpressucenie\wp-includes\class-wp-editor.php on line 753
+[03-Oct-2016 18:59:51 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[03-Oct-2016 18:59:51 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[03-Oct-2016 19:00:59 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[03-Oct-2016 19:00:59 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[03-Oct-2016 19:03:03 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[03-Oct-2016 19:03:03 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[03-Oct-2016 19:03:09 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[03-Oct-2016 19:03:09 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[04-Oct-2016 16:59:12 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[04-Oct-2016 16:59:12 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[04-Oct-2016 17:06:50 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[04-Oct-2016 17:06:50 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[04-Oct-2016 17:07:45 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[04-Oct-2016 17:07:45 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[04-Oct-2016 17:07:51 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[04-Oct-2016 17:07:51 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[04-Oct-2016 17:11:33 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[04-Oct-2016 17:11:33 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[04-Oct-2016 17:12:08 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598
+[04-Oct-2016 17:12:08 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\wordpressucenie\wp-includes\functions.php on line 3598

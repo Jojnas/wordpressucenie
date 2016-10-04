@@ -23,3 +23,14 @@ function muzli_body_classes($classes){
     $classes = array ($slug);
     return $classes;
 }
+
+add_action('the_content', 'muzli_save_post_view_count');
+function muzli_save_post_view_count($content){
+    if (is_single()){
+        echo '<pre>';
+        print_r (get_post_field('post_view_count'));
+        echo '<pre>';
+    }
+
+    return $content;
+}
